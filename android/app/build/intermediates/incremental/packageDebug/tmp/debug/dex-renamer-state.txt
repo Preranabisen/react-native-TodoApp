@@ -1,0 +1,4 @@
+#Thu Sep 17 11:46:13 IST 2020
+base.0=/var/www/React_native/React_Todo/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
