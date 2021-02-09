@@ -35,8 +35,7 @@ This is a sample todo app built with React Native for purposes of learning the R
    <th>Delete Todo</th>
   </tr>
   <tr>
-  <td><img src="https://user-images.githubusercontent.com/61933510/107330942-3c2d1600-6ad8-11eb-9b86-46db37c57323.png" width="500" height="800"></td>
-  </tr>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107330942-3c2d1600-6ad8-11eb-9b86-46db37c57323.png" width="500" height="800"></td>
     <td><img src="https://user-images.githubusercontent.com/61933510/107330418-882b8b00-6ad7-11eb-9118-e28c909c3abd.png" width="500" height="800"></td>
   </tr>
 </table>
