@@ -7,8 +7,8 @@ This is a sample todo app built with React Native for purposes of learning the R
    <th>Add Todo List</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/61933510/107326676-ddfd3480-6ad1-11eb-91af-8dd1d77a4240.png" width="500" height="1000"></td>
-    <td><img src="https://user-images.githubusercontent.com/61933510/107326815-14d34a80-6ad2-11eb-84be-baa8e1dc3935.png" width="500" height="1000">
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326676-ddfd3480-6ad1-11eb-91af-8dd1d77a4240.png" width="500" height="800"></td>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326815-14d34a80-6ad2-11eb-84be-baa8e1dc3935.png" width="500" height="800">
     </td>
   </tr>
 </table>
@@ -19,8 +19,8 @@ This is a sample todo app built with React Native for purposes of learning the R
    <th>Edit Todo</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/61933510/107326832-1bfa5880-6ad2-11eb-9948-f62fbc08acc5.png" width="500" height="1000"></td>
-    <td><img src="https://user-images.githubusercontent.com/61933510/107326841-20267600-6ad2-11eb-9a83-52474f7753ce.png" width="500" height="1000">
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326832-1bfa5880-6ad2-11eb-9948-f62fbc08acc5.png" width="500" height="800"></td>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326841-20267600-6ad2-11eb-9a83-52474f7753ce.png" width="500" height="800">
     </td>
   </tr>
 </table>
