@@ -1,5 +1,10 @@
 # react-native-TodoApp
 This is a sample todo app built with React Native for purposes of learning the ReactNative framework and practice different methods on building a mobile app.
+- Add todo
+- List todos
+- Mark todo as checked / unchecked 
+- Edit todo
+- Remove todo from todo list
 ## Screenshot 
 <table>
   <tr>
@@ -20,8 +25,19 @@ This is a sample todo app built with React Native for purposes of learning the R
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/61933510/107326832-1bfa5880-6ad2-11eb-9948-f62fbc08acc5.png" width="500" height="800"></td>
-    <td><img src="https://user-images.githubusercontent.com/61933510/107326841-20267600-6ad2-11eb-9a83-52474f7753ce.png" width="500" height="800">
-    </td>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326841-20267600-6ad2-11eb-9a83-52474f7753ce.png" width="500" height="800"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <th>Edited Todo List</th>
+   <th>Delete Todo</th>
+  </tr>
+  <tr>
+  <td><img src="https://user-images.githubusercontent.com/61933510/107330942-3c2d1600-6ad8-11eb-9b86-46db37c57323.png" width="500" height="800"></td>
+  </tr>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107330418-882b8b00-6ad7-11eb-9118-e28c909c3abd.png" width="500" height="800"></td>
   </tr>
 </table>
 
