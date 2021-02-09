@@ -1,10 +1,30 @@
 # react-native-TodoApp
 This is a sample todo app built with React Native for purposes of learning the ReactNative framework and practice different methods on building a mobile app.
 ## Screenshot 
-![Screenshot_1612853139](https://user-images.githubusercontent.com/61933510/107326676-ddfd3480-6ad1-11eb-91af-8dd1d77a4240.png)
-![Screenshot_1612853214](https://user-images.githubusercontent.com/61933510/107326815-14d34a80-6ad2-11eb-84be-baa8e1dc3935.png)
-![Screenshot_1612853602](https://user-images.githubusercontent.com/61933510/107326832-1bfa5880-6ad2-11eb-9948-f62fbc08acc5.png)
-![Screenshot_1612853608](https://user-images.githubusercontent.com/61933510/107326841-20267600-6ad2-11eb-9a83-52474f7753ce.png)
+<table>
+  <tr>
+   <th>Todo Home Page</th>
+   <th>Add Todo List</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326676-ddfd3480-6ad1-11eb-91af-8dd1d77a4240.png" width="500" height="1000"></td>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326815-14d34a80-6ad2-11eb-84be-baa8e1dc3935.png" width="500" height="1000">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <th>Todo List</th>
+   <th>Edit Todo</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326832-1bfa5880-6ad2-11eb-9948-f62fbc08acc5.png" width="500" height="1000"></td>
+    <td><img src="https://user-images.githubusercontent.com/61933510/107326841-20267600-6ad2-11eb-9a83-52474f7753ce.png" width="500" height="1000">
+    </td>
+  </tr>
+</table>
+
 ## Application that need to run the project
 - Android Studio
 - Command Prompt
