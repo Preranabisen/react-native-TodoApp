@@ -1,5 +1,4 @@
 # react-native-TodoApp
------
 ## About
 This is a sample todo app built with React Native for purposes of learning the ReactNative framework and practice different methods on building a mobile app.
 ## Application that need to run the project
